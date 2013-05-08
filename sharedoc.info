@@ -1,0 +1,43 @@
+name = ShareDoc
+core = 7.x
+description = groovehunter's profile for simple personal document sharing
+
+
+
+; Core
+dependencies[] = book
+dependencies[] = block
+dependencies[] = dblog
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = locale
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = path
+dependencies[] = taxonomy
+
+; Contrib
+dependencies[] = admin_menu
+dependencies[] = admin_views
+dependencies[] = ctools
+dependencies[] = devel
+dependencies[] = devel_generate
+dependencies[] = devel_node_access
+
+dependencies[] = dhtml_menu
+dependencies[] = features
+dependencies[] = masquerade_nominate
+dependencies[] = masquerade
+dependencies[] = module_filter
+dependencies[] = simplewiki
+dependencies[] = token
+
+dependencies[] = uuid
+dependencies[] = uuid_features
+dependencies[] = views
+dependencies[] = views_ui
+dependencies[] = views_bulk_operations
+
+
+
+; own
