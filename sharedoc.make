@@ -34,6 +34,8 @@ projects[taxonomy_menu][version] = "1.4"
 projects[taxonomy_csv][subdir] = contrib
 projects[taxonomy_csv][version] = "5.10"
 
+projects[token][subdir] = contrib
+projects[token][version] = "2.3"
 
 ; Themes
 
