@@ -19,6 +19,7 @@ dependencies[] = taxonomy
 ; Contrib
 dependencies[] = admin_menu
 dependencies[] = admin_views
+dependencies[] = bulk_media_upload
 dependencies[] = ctools
 dependencies[] = devel
 dependencies[] = devel_generate
@@ -26,9 +27,13 @@ dependencies[] = devel_node_access
 
 dependencies[] = dhtml_menu
 dependencies[] = features
+dependencies[] = image
+dependencies[] = image_gallery
 dependencies[] = masquerade_nominate
 dependencies[] = masquerade
+dependencies[] = media
 dependencies[] = module_filter
+dependencies[] = plupload
 dependencies[] = simplewiki
 dependencies[] = token
 
