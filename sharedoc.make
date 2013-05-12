@@ -21,6 +21,9 @@ projects[features_extra][version] = "1.0-beta1"
 projects[context][subdir] = contrib
 projects[context][version] = "3.0-beta6"
 
+projects[date][subdir] = contrib
+projects[date][version] = "2.6"
+
 projects[devel][subdir] = contrib
 projects[devel][version] = "1.3"
 
@@ -35,6 +38,9 @@ projects[plupload][version] = "1.1"
 
 projects[print][subdir] = contrib
 projects[print][version] = "1.2"
+
+projects[strongarm][subdir] = contrib
+projects[strongarm][version] = "2.0"
 
 projects[taxonomy_menu][subdir] = contrib
 projects[taxonomy_menu][version] = "1.4"
