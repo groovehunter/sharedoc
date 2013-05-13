@@ -56,5 +56,19 @@ projects[uuid][version] = "1.0-alpha3"
 
 projects[uuid_features][subdir] = contrib
 projects[uuid_features][version] = "1.0-alpha3"
+
+
 ; Themes
+
+
+; Libraries
+libraries[plupload][download][type] = "get"
+libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5_7.zip"
+;libraries[plupload][destination] = "libraries/contrib"
+
+libraries[jquery.blockui][download][type] = "git"
+libraries[jquery.blockui][download][url] = "http://git.drupal.org/project/jquery_blockui.git"
+
+
+
 
