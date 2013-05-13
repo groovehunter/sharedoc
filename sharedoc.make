@@ -58,6 +58,12 @@ projects[uuid_features][subdir] = contrib
 projects[uuid_features][version] = "1.0-alpha3"
 
 
+; my stuff
+projects[openspirit_basic_features][subdir] = features/
+projects[openspirit_basic_features][download][type] = "git"
+projects[openspirit_basic_features][download][url] = "git://github.com/groovehunter/openspirit_basic_features.git"
+
+
 ; Themes
 
 
