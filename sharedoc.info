@@ -34,7 +34,6 @@ dependencies[] = devel_node_access
 dependencies[] = dhtml_menu
 dependencies[] = features
 dependencies[] = image
-dependencies[] = image_gallery
 dependencies[] = masquerade_nominate
 dependencies[] = masquerade
 dependencies[] = media
