@@ -19,3 +19,22 @@ So a few points of functionality are worth mention:
 == plans maybe 
 
 * hierarchical select 
+
+
+== INSTALLATION
+
+drush make ...
+drush si sharedoc -y
+
+* enable os basic features
+* enable shreadoc features
+
+* import some views
+* enable some views
+
+* make public file location writable : chgrp www-data sites/default/files -R
+
+
+== TODO 
+* Is it okay to let the install profile enable the libraries module?
+
