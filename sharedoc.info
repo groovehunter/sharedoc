@@ -32,7 +32,11 @@ dependencies[] = devel_generate
 dependencies[] = devel_node_access
 
 dependencies[] = dhtml_menu
+dependencies[] = ds
+dependencies[] = ds_extras
+dependencies[] = ds_ui
 dependencies[] = features
+dependencies[] = ftools
 dependencies[] = image
 dependencies[] = libraries
 dependencies[] = masquerade_nominate

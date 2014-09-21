@@ -5,9 +5,7 @@ includes[] = basemodules.make
 defaults[projects][subdir] = contrib
 
 ; for copy + edit
-;projects[][subdir] = contrib
 ;projects[][version] = ""
-
 
 
 ; extra modules
@@ -16,6 +14,8 @@ projects[features_extra][version] = "1.0-beta1"
 projects[context][version] = "3.0-beta6"
 projects[date][version] = "2.6"
 projects[devel][version] = "1.3"
+projects[ds][version] = "2.4"
+projects[field_property][version] = "1.0-beta2"
 projects[image][version] = "1.x-dev"
 projects[media][version] = "1.3"
 projects[plupload][version] = "1.1"
@@ -32,7 +32,7 @@ projects[uuid_features][version] = "1.0-alpha3"
 projects[openspirit_basic_features][type] = "module"
 projects[openspirit_basic_features][subdir] = features
 projects[openspirit_basic_features][download][type] = "git"
-projects[openspirit_basic_features][download][url] = "git://github.com/groovehunter/openspirit_basic_features.git"
+projects[openspirit_basic_features][download][url] = "https://github.com/groovehunter/openspirit_basic_features.git"
 
 
 ; Themes
