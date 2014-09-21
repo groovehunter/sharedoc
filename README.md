@@ -19,3 +19,10 @@ So a few points of functionality are worth mention:
 == plans maybe 
 
 * hierarchical select 
+
+
+
+TODO
+
+* mass field editing , better say: inline tag editing in content table
+
