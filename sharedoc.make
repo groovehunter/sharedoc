@@ -9,24 +9,31 @@ includes[] = https://raw.githubusercontent.com/groovehunter/drupal/master/basemo
 
 
 ; extra modules
-projects[bulk_media_upload][version] = ""
+;projects[backbone][version] = "1.x-dev"
+projects[bulk_media_upload][version] = "1.x-dev"
 projects[features_extra][version] = "1.0-beta1"
-projects[context][version] = "3.0-beta6"
-projects[date][version] = "2.6"
-projects[devel][version] = "1.3"
-projects[ds][version] = "2.4"
+projects[ckeditor][version] = "1.15"
+projects[context][version] = "3.3"
+projects[date][version] = "2.8"
+projects[devel][version] = "1.5"
+projects[ds][version] = "2.6"
 projects[field_property][version] = "1.0-beta2"
-projects[image][version] = "1.x-dev"
+projects[flippy][version] = "1.3"
+;projects[image][version] = "1.x-dev"
 projects[libraries][version] = "2.2"
-projects[media][version] = "1.3"
-projects[plupload][version] = "1.1"
+projects[media][version] = "1.4"
+projects[multiform][version] = "1.1"
+projects[plupload][version] = "1.6"
 projects[print][version] = "1.2"
+projects[quickedit][version] = "1.1"
+projects[robotstxt][version] = "1.2"
+projects[skinr][version] = "2.0"
 projects[strongarm][version] = "2.0"
-projects[taxonomy_menu][version] = "1.4"
+projects[taxonomy_menu][version] = "1.5"
 projects[taxonomy_csv][version] = "5.10"
-projects[token][version] = "2.3"
-projects[uuid][version] = "1.0-alpha3"
-projects[uuid_features][version] = "1.0-alpha3"
+projects[token][version] = "1.5"
+projects[uuid][version] = "1.0-alpha6"
+projects[uuid_features][version] = "1.0-alpha4"
 
 
 ; my stuff
@@ -41,7 +48,8 @@ projects[openspirit_basic_features][download][url] = "https://github.com/grooveh
 
 ; Libraries
 libraries[plupload][download][type] = "get"
-libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5_7.zip"
+libraries[plupload][download][url] = "https://github.com/moxiecode/plupload/archive/v2.1.2.zip"
+;libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5_7.zip"
 ;libraries[plupload][destination] = "libraries/contrib"
 
 libraries[jquery.blockui][download][type] = "git"
