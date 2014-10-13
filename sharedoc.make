@@ -66,7 +66,7 @@ projects[openspirit_basic_features][download][url] = "https://github.com/grooveh
 ; Libraries
 libraries[plupload][download][type] = "get"
 ;libraries[plupload][download][url] = "https://github.com/moxiecode/plupload/archive/v2.1.2.zip"
-libraries[plupload][download][url] = "http://plupload.com/downloads/plupload_1_5_8.zip"
+libraries[plupload][download][url] = "https://github.com/moxiecode/plupload/archive/v1.5.8.zip"
 ;libraries[plupload][destination] = "libraries/contrib"
 
 libraries[jquery.blockui][download][type] = "git"
