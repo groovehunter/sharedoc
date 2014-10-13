@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the sharedoc_ds feature.
+ */
+
+include_once 'sharedoc_ds.features.inc';
